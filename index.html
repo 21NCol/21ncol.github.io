@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Colombia</title>
+	<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+	<style type="text/css">
+		* {
+			font-family: Arial;
+		}
+		a {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<script>
+		$(function() {
+			$.getJSON("data.json", function(data) {
+				var template = Handlebars.compile(`
+					<div>
+						{{#each section}}
+							<h1>{{name}}</h1>
+							<hr />
+							<ol>
+							{{#each item}}
+								<h2>{{title}}</h2>
+								{{#each video}}
+									<video width="480" height="320" controls="controls">
+										<source src="media/{{this}}" type="video/mp4">
+									</video>
+								{{/each}}
+								<b>Sources:</b>
+								{{#each tweet}}
+									<a href="{{this}}" target="_blank">{{this}}</a>
+								{{/each}}
+							{{/each}}
+							</ol>
+							<br />
+							<br />
+						{{/each}}
+					</div>
+				`);
+				$(document.body).append(template(data));
+			});
+		});
+	</script>
+</body>
+</html>

@@ -1,0 +1,151 @@
+{
+	"section": [
+		{
+			"name": "Encapuchados y delincuentes amigos de los policías",
+			"item": [
+				{
+					"title": "Encapuchados amigos de policías?",
+					"tweet": [
+						"https://twitter.com/pinchapte/status/1197947745925050368?s=20"
+					],
+					"video": [
+						"1.1.mp4"
+					]
+				},
+				{
+					"title": "Policía infiltrado haciendo daños",
+					"tweet": [
+						"https://twitter.com/AlirioUribeMuoz/status/1198219134171041792?s=20"
+					],
+					"video": [
+						"1.2.mp4"
+					]
+				},
+				{
+					"title": "Policías entran a edificio y salen vestidos de civil",
+					"tweet": [
+						"https://twitter.com/petrogustavo/status/1198111507382439937?s=20",
+						"https://twitter.com/petrogustavo/status/1198111658507481088?s=20"
+					],
+					"video": [
+						"1.3.mp4",
+						"1.3-2.mp4"
+					]
+				},
+				{
+					"title": "Delincuentes y policías esperando",
+					"tweet": [
+						"https://twitter.com/jairoriverah/status/1198090166621130752?s=20"
+					],
+					"video": [
+						"1.4.mp4"
+					]
+				},
+				{
+					"title": "Policías no capturan a los delincuentes intencionalmente",
+					"tweet": [
+						"https://twitter.com/nicolasAmon/status/1197954903995568129"
+					],
+					"video": [
+						"1.5.mp4"
+					]
+				}
+			]
+		},
+		{
+			"name": "Policías creando pánico o haciendo daños",
+			"item": [
+				{
+					"title": "Policías causando daños",
+					"tweet": [
+						"https://twitter.com/lajulicardenas/status/1198229058204639232?s=20"
+					],
+					"video": [
+						"2.1.mp4"
+					]
+				},
+				{
+					"title": "Busquen una piedra y vayan a romper vidrios: Policía a indigentes",
+					"tweet": [
+						"https://twitter.com/fixasttyles/status/1198236405069164545?s=20"
+					],
+					"video": [
+						"2.2.mp4"
+					]
+				},
+				{
+					"title": "Policías liberando capturados",
+					"tweet": [
+						"https://twitter.com/mendodac/status/1198090529193508865?s=20"
+					],
+					"video": [
+						"2.3.mp4"
+					]
+				},
+				{
+					"title": "Policías recogen a los delincuentes en motos",
+					"tweet": [
+						"https://twitter.com/MilesHMora2/status/1198123373408247810?s=20",
+						"https://twitter.com/ManosLimpiasCo/status/1198244390856212481?s=20"
+					],
+					"video": [
+						"2.4.mp4",
+						"2.4-2.mp4"
+					]
+				}
+			]
+		},
+		{
+			"name": "Otros",
+			"item": [
+				{
+					"title": "Camiones llenos de delincuentes",
+					"tweet": [
+						"https://twitter.com/_GarzonFelipe/status/1198091618282283008"
+					],
+					"video": [
+						"3.1.mp4"
+					]
+				},
+				{
+					"title": "Cuentas de Uribistas y Bots creando información falsa",
+					"tweet": [
+						"https://twitter.com/JairoSoto/status/1198084763766145024",
+						"https://twitter.com/PremiosPopis/status/1198223287672815616?s=20",
+						"https://twitter.com/petrogustavo/status/1198241364930117632?s=20",
+						"https://twitter.com/MariaFdaCabal/status/1198066331666518016"
+					],
+					"video": []
+				},
+				{
+					"title": "Comunidad expulsa a camiones llenos de delincuentes",
+					"tweet": [
+						"https://twitter.com/UldaricoChilito/status/1198111376595718145?s=20"
+					],
+					"video": [
+						"3.3.mp4"
+					]
+				}
+			]
+		},
+		{
+			"name": "#ElDato",
+			"item": [
+				{
+					"title": "Militar a cargo de la operación en Bogotá era Marcos Pinto, investigado por multiples falsos positivos",
+					"tweet": [
+						"https://twitter.com/SebastianDDHH/status/1198017923182407680?s=20"
+					],
+					"video": []
+				},
+				{
+					"title": "Mayor de la policía encargado de la operación en Cali es el exdirector del INPEC, despedido por multiples irregularidades, incluyendo la fuga de Aida Merlano.",
+					"tweet": [
+						"https://twitter.com/JairoSoto/status/1198084763766145024"
+					],
+					"video": []
+				}
+			]
+		}
+	]
+}
